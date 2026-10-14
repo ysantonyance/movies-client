@@ -1,0 +1,15 @@
+{
+  "movies": {
+    "title": "Collection des meilleurs films",
+    "subtitle": "Favoris triés sur le volet de notre collection",
+    "searchPlaceholder": "Rechercher par titre, réalisateur ou genre...",
+    "shownCount": "Affichés : {{count}}",
+    "loading": "Chargement du catalogue...",
+    "error": "Échec du chargement des données : {{error}}",
+    "noResultsTitle": "Aucun film trouvé",
+    "noResultsDesc": "Essayez de rechercher autre chose.",
+    "details": "Détails",
+    "edit": "Modifier",
+    "delete": "Supprimer"
+  }
+}

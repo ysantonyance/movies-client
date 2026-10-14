@@ -1,0 +1,15 @@
+{
+  "movies": {
+    "title": "Top Movies Collection",
+    "subtitle": "Hand-picked favorites from our collection",
+    "searchPlaceholder": "Search by title, director or genre...",
+    "shownCount": "Shown: {{count}}",
+    "loading": "Loading catalog...",
+    "error": "Failed to load data: {{error}}",
+    "noResultsTitle": "No movies found",
+    "noResultsDesc": "Try searching for something else.",
+    "details": "Details",
+    "edit": "Edit",
+    "delete": "Delete"
+  }
+}
